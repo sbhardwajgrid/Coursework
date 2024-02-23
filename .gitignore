@@ -1,1 +1,7 @@
 /.DS_Store
+/graph_ml/dataset/
+/graph_ml/graphml_env/
+/graph_ml/enzymes/
+/graph_ml/.DS_Store
+/graph_ml/obgn-arxiv_node.csv
+/coursework_env/
